@@ -1,4 +1,4 @@
-# Ping Latency Map
+# Doom Scroll Simulator
 
 This is the source code for [https://aaronstanek.com/projects/doom-scroll-simulator](https://aaronstanek.com/projects/doom-scroll-simulator).
 
