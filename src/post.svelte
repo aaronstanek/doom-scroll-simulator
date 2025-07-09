@@ -127,7 +127,7 @@
 		padding: 20px;
 	}
 	.bar {
-		background-color: var(--somewhat-white);
+		background-color: var(--card-color);
 		height: 1px;
 		width: 90%;
 	}
